@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+ul{
+	list-style-type:none;
+	background-color:black;
+	width:100%;
+	padding:20px;
+}
+ul li
+{
+	display :inline;
+	padding:20px;
+}
+ul li a{
+	text-decoration:none;
+	color:white;
+}
